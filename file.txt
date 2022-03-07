@@ -1,0 +1,3 @@
+This file has been created by phthon.
+This file will be used to learn about files in python.
+1. 
